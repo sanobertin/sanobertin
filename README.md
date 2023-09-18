@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 (![Top languages] https://github-readme-stats.vercel.app/api/top-langs/?username=sanobertin&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=sanobertin&theme=algolia&show_icons=true)](https://github.com/sanobertin)
