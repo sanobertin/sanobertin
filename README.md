@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(![Top languages] https://github-readme-stats.vercel.app/api/top-langs/?username=sanobertin&theme=dracula)
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs?username=sanobertin&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/sanobertin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sanobertin&theme=algolia&show_icons=true)](https://github.com/sanobertin)
