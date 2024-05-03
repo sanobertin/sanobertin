@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 * ELEC 311 - Electronics I (3.50)
 * ELEC 321 -  Introduction to Semiconductor Materials and Devices (3.5 credits)
 <br />
+
 **Fall 2023:**
 * ELEC 273 -  Basic Circuit Analysis - 3.5 credits
 * COEN 212  - DIGITAL SYSTEMS DESIGN I - 3.5 credits
@@ -44,13 +45,17 @@ Here are some ideas to get you started:
 * COEN 244 - Programming Methodology II (3 credits)
 * MIAE  221 - Materials Science - 3 credits
 <br />
+
 <br />
+
 **Summer 2023:**
 * ENGR 213  - Applied ODE - 3 credits
 * ENCS 282 - Technical Writing and Communication - 3 credits
 * COEN 243 - Programming Methodology I - 3.5 credits
 <br />
+
 <br />
+
 **Winter 2023:**
 * ECON 203 - Introduction to Macroeconomics - 3 credits
 * MATH 204 - Vectors and Matrices - 3 credits
@@ -59,14 +64,17 @@ Here are some ideas to get you started:
 * ENGR 201 - Professional Practice and Responsibility - 1.5 credits
 * ENGR 202 - Sustainable Development and Environmental Stewardship - 1.5 credits 
 <br />
+
 <br />
+
 **Fall 2022:** 
 * CHEM 205 - General Chemistry I - 3 credits
 * ECON 201 - Introduction to Microeconomics - 3 credits
 * MATH 203 - Differential and Integral Calculus I - 3 credits
 * PHYS 204 - Mechanics - 3 credits
-* ESL 204 - Refining Academing English Language Skills - 6 credits 
+* ESL 204 - Refining Academic English Language Skills - 6 credits 
 <br />
+
 <br />
 
 
