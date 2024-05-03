@@ -3,7 +3,7 @@
 
 
 > Personal Website: https://users.encs.concordia.ca/~b_mihigo/  (under construction)
-</br>
+
 <!--
 **sanobertin/sanobertin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
