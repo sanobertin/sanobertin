@@ -1,5 +1,10 @@
-### Hi there 👋
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs?username=sanobertin&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/sanobertin) [![Top Langs](https://github-readme-stats.vercel.app/api?username=sanobertin&theme=algolia&show_icons=true)](https://github.com/sanobertin)
+[![](https://visitcount.itsvg.in/api?id=sanobertin&icon=0&color=13)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanobertin)
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 
 > Personal Website: https://users.encs.concordia.ca/~b_mihigo/  (under construction)
@@ -19,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me:
->I'm currently a 3rd year student in B.Eng Computer Engineering at Concordia University in Montreal. I love working on challenging projects and learning new state-of-the-art technologies.
+>I'm currently a 3rd year student in B.Eng Computer Engineering at Concordia University in Montreal. I enjoy working on challenging projects and learning new state-of-the-art technologies.
 
 ### **Education :**
 
@@ -29,52 +34,21 @@ Here are some ideas to get you started:
 
 [Program Course Requirements: ](https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-30-department-of-electrical-and-computer-engineering/section-71-30-2-course-requirements-beng-in-computer-engineering-.html)
 
-**_Courses Taken so far:_** 
-<br />
-**Winter 2024:**
-* COEN 313 - DIGITAL SYSTEMS DESIGN II - 3.5 credits
-* ENGR 233  - Applied Advanced Calculus  - 3 credits
-* ELEC 311 - Electronics I (3.50)
-* ELEC 321 -  Introduction to Semiconductor Materials and Devices (3.5 credits)
-<br />
 
-**Fall 2023:**
-* ELEC 273 -  Basic Circuit Analysis - 3.5 credits
-* COEN 212  - DIGITAL SYSTEMS DESIGN I - 3.5 credits
-* COEN 231 - Introduction to Discrete Mathematics (3 credits)
-* COEN 244 - Programming Methodology II (3 credits)
-* MIAE  221 - Materials Science - 3 credits
-<br />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sanobertin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanobertin&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanobertin&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanobertin&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-**Summer 2023:**
-* ENGR 213  - Applied ODE - 3 credits
-* ENCS 282 - Technical Writing and Communication - 3 credits
-* COEN 243 - Programming Methodology I - 3.5 credits
-<br />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sanobertin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br />
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px; width: 400px;"/>
 
-**Winter 2023:**
-* ECON 203 - Introduction to Macroeconomics - 3 credits
-* MATH 204 - Vectors and Matrices - 3 credits
-* MATH 205 - Differential and Integral Calculus II - 3 credits
-* PHYS 205 - Electricity and Magnetism - 3 credits
-* ENGR 201 - Professional Practice and Responsibility - 1.5 credits
-* ENGR 202 - Sustainable Development and Environmental Stewardship - 1.5 credits 
-<br />
+---
 
-<br />
-
-**Fall 2022:** 
-* CHEM 205 - General Chemistry I - 3 credits
-* ECON 201 - Introduction to Microeconomics - 3 credits
-* MATH 203 - Differential and Integral Calculus I - 3 credits
-* PHYS 204 - Mechanics - 3 credits
-* ESL 204 - Refining Academic English Language Skills - 6 credits 
-<br />
-
-<br />
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
