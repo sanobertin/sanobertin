@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=sanobertin&icon=0&color=13)](https://visitcount.itsvg.in)
-
+[<img src="https://visitcount.itsvg.in/api?id=sanobertin&icon=3&color=67" alt="Visit Count" width="300">](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanobertin)
 
@@ -46,8 +45,7 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanobertin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px; width: 400px;"/>
+
 
 ---
 
