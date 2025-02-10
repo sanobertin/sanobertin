@@ -34,10 +34,7 @@ Here are some ideas to get you started:
 [Program Course Requirements: ](https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-30-department-of-electrical-and-computer-engineering/section-71-30-2-course-requirements-beng-in-computer-engineering-.html)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanobertin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanobertin&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanobertin&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanobertin&theme=merko&no-frame=false&no-bg=true&margin-w=4)
